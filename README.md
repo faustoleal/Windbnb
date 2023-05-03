@@ -1,3 +1,3 @@
 # Windbnb
 
--[Windbnb](https://faustoleal.github.io/windbnb/windbnb/)
+-[Windbnb](https://faustoleal.github.io/Windbnb/windbnb/)
